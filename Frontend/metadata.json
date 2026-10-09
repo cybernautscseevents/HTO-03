@@ -1,0 +1,6 @@
+{
+  "name": "KaamConnect - Voice-First Local Work Platform",
+  "description": "Voice-first platform connecting daily wage labour workers and contractors with transparent matching, trust scores, and portable Work Cards in English, Hindi, and Kannada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
